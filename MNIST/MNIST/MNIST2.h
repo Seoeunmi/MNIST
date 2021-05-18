@@ -11,6 +11,6 @@
 #define LR 3 //learning_rate
 
 #define BATCH_SIZE 10
-#define EPOCH 1
+#define EPOCH 100
 
 #endif // MNIST

@@ -3,7 +3,7 @@
 
 void main()
 {
-	// TRAIN 안에 TEST 있음
+	// Test function include in the train function
 	TRAIN_NETWORK();
 
 	return 0;

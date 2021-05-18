@@ -142,6 +142,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binary.c" />
+    <ClCompile Include="MNIST2.c" />
+    <ClCompile Include="Mnist_Fun.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MNIST2.h" />
+    <ClInclude Include="Mnist_Fun.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
